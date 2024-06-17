@@ -1,4 +1,4 @@
-# Welcome to CuFP: Customized Floating Point Data Type
+# Welcome to CuFP: An HLS Library for Customized Floating-Point Operators
 
 This project provides High-Level Synthesis source codes implementing customized floating point numbers with their primary and dedicated operations for developing HLS-based projects in which there is a need for non-standard floating point data types. It has also prepared some scripts to facilitate the process of compiling and exporting IP in the Vivado HLS tool, as well as synthesizing and implementing the exported IP in the Vivado Design Suite and reporting the resource and timing results.
 
@@ -47,3 +47,12 @@ In order to run the process for a list of configurations, you can put their corr
 ```sh
 $ ./run_batch.sh
 ```
+
+# How to cite this work
+This work has been submitted to Electronics journal. The preprint of the paper is available online at http://www.preprints.org with the following information:
+
+Preprints ID: preprints-109560
+Type: Article
+Title: CuFP: An HLS Library for Customized Floating-Point Operators
+Authors: Fahimeh Hajizadeh, Tarek Ould-Bachir, Jean-Pierre David
+Emails: fahimeh.hajizadeh@polymtl.ca, tarek.ould-bachir@polymtl.ca, jean-pierre.david@polymtl.ca
