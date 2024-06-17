@@ -24,11 +24,11 @@ $ ./run_single.sh [options]
 | -p | Enable Implementation   |
 | -d | cufp, normfp |
 | -o | sum, mul, vsum, dp, mvm |
-| -n | <vector size> |
-| -w | <total width> |
-| -m | <mantissa (fraction) width> |
-| -f | <clock frequency> |
-| -u | <clock uncertainty (%)> |
+| -n | \<vector size\> |
+| -w | \<total width\> |
+| -m | \<mantissa (fraction) width\> |
+| -f | \<clock frequency\> |
+| -u | \<clock uncertainty (%)\> |
 | -h | virtex7, ultrascale |
 
 Here are some command examples:
