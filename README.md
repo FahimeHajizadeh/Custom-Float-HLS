@@ -51,8 +51,7 @@ $ ./run_batch.sh
 # How to cite this work
 This work has been submitted to Electronics journal. The preprint of the paper is available online at http://www.preprints.org with the following information:
 
-Preprints ID: preprints-109560  
-Type: Article  
-Title: CuFP: An HLS Library for Customized Floating-Point Operators  
+Hajizadeh, F.; Ould-Bachir, T.; David, J.-P. CuFP: An HLS Library for Customized Floating-Point Operators. Preprints 2024, 2024061239. https://doi.org/10.20944/preprints202406.1239.v1   
+
 Authors: Fahimeh Hajizadeh, Tarek Ould-Bachir, Jean-Pierre David  
 Emails: fahimeh.hajizadeh@polymtl.ca, tarek.ould-bachir@polymtl.ca, jean-pierre.david@polymtl.ca  
