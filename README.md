@@ -47,6 +47,9 @@ In order to run the process for a list of configurations, you can put their corr
 ```sh
 $ ./run_batch.sh
 ```
+# How to Use 
+
+This library project can be utilized at both a low and high level, depending on the requirements. The library can be imported into an HLS project for high-level use, or it can be exported as an RTL IP and instantiated into an RTL design. We created a script that exports an RTL IP from the source code, and synthesizes and implements it automatically. This approach can serve as inspiration for developing an FPGA-based project using the CuFP library.
 
 # How to cite this work
 This work has been submitted to Electronics journal. The preprint of the paper is available online at http://www.preprints.org with the following information:
