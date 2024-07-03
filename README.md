@@ -4,7 +4,7 @@ This project provides High-Level Synthesis source codes implementing customized 
 
 ## Prequisites
 
-You need to install a bash-compatible program like `git-bash` on your system. You must also install one of AMD Xilinx Vivado and HLS tool versions (2019.1 and later) on your system.
+You need to install a bash-compatible program like `git-bash` on your system. You must also install one of AMD Xilinx Vivado and HLS tool versions (2019.1 or later) on your system.
 
 # How to Run 
 
