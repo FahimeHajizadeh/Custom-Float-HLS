@@ -4,11 +4,17 @@ This project provides High-Level Synthesis source codes implementing customized 
 
 ## Prequisites
 
-You need to install a sh-compatible program like `git-bash` on your system. You must also have installed Vivado Design Suite and Vivado HLS (preferably the 2019.1 version) on your system. 
+You need to install a bash-compatible program like `git-bash` on your system. You must also install one of AMD Xilinx Vivado and HLS tool versions (2019.1 and later) on your system.
 
 # How to Run 
 
-First of all, you must modify the Vivado HLS and Vivado executable file paths in `run_single.sh` script. Then, follow next steps for executing the script.
+First of all, you must update the Vivado HLS (or Vitis HLS) and Vivado executable paths in `run_single.sh` script. Then, follow the next steps for executing the script.
+
+```sh
+# Define tool paths
+VivadoHLS="C:/Xilinx/Vivado/2019.1/bin/vivado_hls.bat"      # Vivado HLS or Vitis HLS binary path
+Vivado="C:/Xilinx/Vivado/2019.1/bin/vivado.bat"             # Vivado binary path
+```
 
 ## Run a single process
 
